@@ -1,0 +1,6 @@
+{
+  "int": 42,
+  "neg-sign-int": -17,
+  "float": 123.456,
+  "neg-sign-float": -76.54
+}
